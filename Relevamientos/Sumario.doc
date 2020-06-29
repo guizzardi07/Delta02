@@ -1,0 +1,7 @@
+    layer               Cotas          Cota_MDERa       Dif_MDERaf     
+ Length:1432        Min.   : 0.700   Min.   :0.2015   Min.   :-4.9120  
+ Class :character   1st Qu.: 2.100   1st Qu.:2.0406   1st Qu.:-0.7053  
+ Mode  :character   Median : 3.000   Median :2.6553   Median :-0.2705  
+                    Mean   : 3.598   Mean   :3.2360   Mean   :-0.3616  
+                    3rd Qu.: 4.700   3rd Qu.:4.5732   3rd Qu.: 0.1323  
+                    Max.   :10.798   Max.   :9.2292   Max.   : 2.7310  
