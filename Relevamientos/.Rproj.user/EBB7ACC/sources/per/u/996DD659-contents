@@ -1,0 +1,21 @@
+library(readxl)
+Relevamientos <- read.csv('Relevamiento.csv')
+summary(Relevamientos)
+Sumario = summary(Relevamientos)
+capture.output(Sumario, file="Sumario.doc")
+boxplot(Relevamientos$Dif_MDE_Ra, horizontal = TRUE, col = 'lightblue', boxwex = 0.5, xlab = 'Diferencias [m]')
+hist(Relevamientos$Dif_MDE_Ra, ylim = c(0, 0.8), xlim=c(-5,5), prob = T, main = NULL, xlab = 'Diferencias MDE Rafael [m]', ylab = 'Densidad', breaks = 50, col = '1024')
+lines(density(Relevamientos$Dif_MDE_Ra))
+library(ggplot2)
+?geom_density
+ggplot(Relevamientos, aes(x = Relevamientos$Dif_MDE_Ra, fill = Relevamientos$UnidadPaisaje)) + geom_density(position = "identity", col = NA, alpha = 0.3, adjust = 1) + labs(fill = 'Relevamiento', x="Diferencias [m]", y = "Densidad")
+UnidadPaisajea <- read.csv('UnidadPaisaje_a.csv')
+ggplot(UnidadPaisajea, aes(x = UnidadPaisajea$Dif_MDE_Ra, fill = UnidadPaisajea$UnidadPaisaje)) + geom_density(position = "identity", col = NA, alpha = 0.3, adjust = 1.25) + labs(fill = 'Relevamiento', x="Diferencias [m]", y = "Densidad") + xlim(-5, 3)
+UnidadPaisajeb <- read.csv('UnidadPaisaje_b.csv')
+ggplot(UnidadPaisajeb, aes(x = UnidadPaisajeb$Dif_MDE_Ra, fill = UnidadPaisajeb$UnidadPaisaje)) + geom_density(position = "identity", col = NA, alpha = 0.3, adjust = 1.25) + labs(fill = 'Relevamiento', x="Diferencias [m]", y = "Densidad") + xlim(-5, 3)
+graf1 <- ggplot(Relevamientos, aes(Relevamientos$Dif_MDE_Ra, Relevamientos$UnidadPaisaje))
+graf1 + geom_boxplot() + ggtitle("Diferencias MDE - Relevamientos por UP") +
+  ylab("Unidades de paisaje") + xlab("Diferencias [m]")
+graf2 <- ggplot(Relevamientos, aes(Relevamientos$Dif_MDE_Ra, Relevamientos$layer))
+graf2 + geom_boxplot() + ggtitle("Diferencias MDE - Relevamientos por orígen datos") +
+  ylab("Relevamientos") + xlab("Diferencias [m]")

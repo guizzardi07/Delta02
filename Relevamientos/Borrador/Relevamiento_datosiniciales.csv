@@ -1,0 +1,1433 @@
+layer,Cota,Cota_MDE_R,Dif_MDE_Ra,UnidadPaisaje
+RTK INA,5.063,4.47134,-0.592,Humedales de fajas de espiras del Parana y sus distributarios
+RTK INA,1.905,1.92007,0.015,Humedales de la planicie deltaica superior
+RTK INA,1.355,1.641,0.286,Humedales de la planicie deltaica superior
+RTK INA,2.27,1.64869,-0.621,Humedales de la planicie deltaica superior
+RTK INA,1.9,1.59749,-0.303,Humedales del Delta frontal
+RTK INA,1.658,1.58243,-0.076,Humedales del Delta frontal
+RTK INA,2.177,1.77143,-0.406,Humedales del Delta frontal
+RTK INA,2.124,1.7657,-0.358,Humedales del Delta frontal
+RTK INA,2.398,1.03679,-1.361,Humedales del Delta frontal
+RTK INA,2.298,1.68237,-0.616,Humedales del Delta frontal
+RTK INA,2.056,1.57761,-0.478,Humedales del Delta frontal
+RTK INA,1.98,1.80776,-0.172,Humedales de la planicie deltaica superior
+RTK INA,2.008,1.18314,-0.825,Humedales de la planicie deltaica superior
+RTK INA,1.968,2.69688,0.729,Humedales del Delta frontal
+Puntos IGN,10,5.2048,-4.795,Humedales de los relieves de Ibicuy
+Puntos IGN,10,5.00105,-4.999,Humedales de los relieves de Ibicuy
+Puntos IGN,10,5.21041,-4.79,Humedales de los relieves de Ibicuy
+Puntos IGN,10,4.35002,-5.65,Humedales de los relieves de Ibicuy
+Puntos IGN,10,5.6506,-4.349,Humedales de los relieves de Ibicuy
+Puntos IGN,6.4,4.71404,-1.686,Humedales de Crestas de Playa
+Puntos IGN,5.5,4.72913,-0.771,Humedales de Crestas de Playa
+Puntos IGN,5.9,4.79208,-1.108,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.6,4.93149,-1.669,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.6,5.08511,-1.515,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.9,4.71007,-0.19,Humedales de Crestas de Playa
+Puntos IGN,4.2,4.91693,0.717,Humedales de Crestas de Playa
+Puntos IGN,6.3,5.29177,-1.008,Humedales de Crestas de Playa
+Puntos IGN,6.4,5.17982,-1.22,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.8,5.23286,-1.567,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.3,5.59388,-0.706,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6,5.20673,-0.793,Humedales de Crestas de Playa
+Puntos IGN,5.3,5.02971,-0.27,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.8,5.06619,-0.734,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.9,5.17515,-0.725,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6,5.09187,-0.908,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.8,4.86114,-0.939,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.1,4.98336,-1.117,Humedales de Crestas de Playa
+Puntos IGN,5.5,4.88394,-0.616,Humedales de Crestas de Playa
+Puntos IGN,5.4,4.81195,-0.588,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.7,5.23718,-0.463,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.6,5.29494,-0.305,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.1,4.66434,-0.436,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.8,4.74105,-0.059,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5,4.77276,-0.227,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.4,4.80705,-0.593,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5,4.85515,-0.145,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.5,5.70784,-0.792,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,5.5399,-1.86,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.6,5.75342,-0.847,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,5.7768,-1.623,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,6.9,5.5913,-1.309,Humedales de las grandes lagunas de Victoria
+Puntos IGN,7,5.53695,-1.463,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.8,5.56492,-1.235,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.5,5.69222,-0.808,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.5,5.9825,-1.518,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7,5.62924,-1.371,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,5,5.40153,0.402,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.4,5.23788,-1.162,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.2,5.22168,-0.978,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.5,5.48746,-1.013,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,6.4,5.23472,-1.165,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.6,5.34704,-1.253,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.7,5.15939,-1.541,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.4,5.55882,-0.841,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6,5.09603,-0.904,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.7,4.98383,-0.716,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5,5.05205,0.052,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.6,5.23862,-1.361,Humedales de las grandes lagunas de Victoria
+Puntos IGN,7,5.9044,-1.096,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,5.87704,-1.523,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.7,5.97355,-1.726,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.5,5.86721,-2.633,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.2,6.1704,-2.03,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,9.3,6.1464,-3.154,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.1,6.26546,-0.835,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.1,6.2023,-0.898,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.6,6.21119,-1.389,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8,6.22759,-1.772,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,6.5123,-0.888,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.7,6.74971,-0.95,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.5,6.72969,-1.77,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,7.6,6.67395,-0.926,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.3,6.61473,-1.685,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.8,6.33437,0.534,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,9.6,5.38551,-4.214,Humedales de albardones y derrames del Parana
+Puntos IGN,7.4,6.02527,-1.375,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.7,6.47229,-1.228,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.8,6.13768,-1.662,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.1,5.64458,-2.455,Humedales de albardones y derrames del Parana
+Puntos IGN,7.6,6.73418,-0.866,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.6,6.73399,-0.866,Humedales de albardones y derrames del Parana
+Puntos IGN,7.7,6.49517,-1.205,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,6.8,7.11807,0.318,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,8.4,6.60297,-1.797,Humedales de albardones y derrames del Parana
+Puntos IGN,9.2,6.68147,-2.519,Humedales de albardones y derrames del Parana
+Puntos IGN,9,7.47655,-1.523,Humedales de albardones y derrames del Parana
+Puntos IGN,9.3,7.26737,-2.033,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,8.9,7.27231,-1.628,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.6,6.92187,-0.678,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.9,6.71694,-1.183,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,5.79163,-1.608,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.7,6.4296,-1.27,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.4,6.7661,-0.634,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,7.2,7.26494,0.065,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Puntos IGN,6.8,5.14801,-1.652,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,7.8,4.7322,-3.068,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,7.7,5.01258,-2.687,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,7.9,4.60166,-3.298,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.2,4.57817,-1.622,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.9,4.36372,-2.536,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.9,4.42474,-2.475,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,7.4,4.47473,-2.925,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.9,4.33329,-2.567,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6.8,4.27118,-2.529,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.3,4.08413,-0.216,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.6,4.5262,-1.074,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.4,4.76858,-0.631,Humedales de Crestas de Playa
+Puntos IGN,4.5,4.81818,0.318,Humedales de Crestas de Playa
+Puntos IGN,4,4.03816,0.038,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.6,4.18733,-0.413,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.6,4.10481,0.505,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.5,4.06798,-0.432,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.7,4.79234,0.092,Humedales de las grandes lagunas de Victoria
+Puntos IGN,3.7,5.24457,1.545,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.6,4.95934,-0.641,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.7,5.07572,-0.624,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.9,5.04757,-0.852,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.3,5.0475,-0.252,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.5,4.99972,-0.5,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,6.2,5.06063,-1.139,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.8,4.94559,-0.854,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6,4.78841,-1.212,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.8,4.90891,-0.891,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.4,4.41848,-0.982,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.3,4.51406,-0.786,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.5,4.14723,-1.353,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.6,4.07374,-1.526,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.2,4.92736,-0.273,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.5,4.23296,-1.267,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.4,4.62697,-0.773,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.8,4.70397,-0.096,Humedales de Crestas de Playa
+Puntos IGN,4.5,3.68357,-0.816,Humedales de Crestas de Playa
+Puntos IGN,4.6,4.59481,-0.005,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.4,4.50373,0.104,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.5,4.33397,-0.166,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5.3,4.65032,-0.65,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5,4.73036,-0.27,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.7,4.93285,0.233,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.9,4.52899,-0.371,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.6,4.56874,-0.031,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.8,4.48344,-0.317,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.5,4.43448,-0.066,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.35,4.37053,-0.979,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.7,4.37286,-0.327,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.9,3.73808,-1.162,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,5,4.02835,-0.972,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.5,4.16614,-0.334,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.7,3.47589,-1.224,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.2,3.87973,-0.32,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.4,3.53789,-0.862,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.1,3.66868,-0.431,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.1,3.56697,-0.533,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.4,3.71573,-1.684,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4,3.60724,-0.393,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.3,4.26787,-0.032,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.6,3.70579,-0.894,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.4,3.89371,-0.506,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.6,4.09027,0.49,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.7,3.70415,-0.996,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.4,4.57361,-0.826,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.1,4.79569,0.696,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.9,4.53318,-0.367,Humedales de Crestas de Playa
+Puntos IGN,4.7,4.39746,-0.303,Humedales de Crestas de Playa
+Puntos IGN,4.5,4.81436,0.314,Humedales de Crestas de Playa
+Puntos IGN,6.9,4.83196,-2.068,Humedales de Crestas de Playa
+Puntos IGN,7.7,4.86206,-2.838,Humedales de Crestas de Playa
+Puntos IGN,4.4,4.76423,0.364,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.3,4.95954,-0.34,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.4,4.55985,0.16,Humedales de las grandes lagunas de Victoria
+Puntos IGN,7.2,5.15439,-2.046,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.3,4.57036,0.27,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.2,5.17827,-0.022,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.5,5.18663,-0.313,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,6.5,5.19495,-1.305,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.6,5.11316,-0.487,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.1,6.71277,1.613,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.4,2.86781,-0.532,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.5,2.80216,-0.698,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.4,2.83705,-0.563,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.9,3.15448,-0.746,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.5,3.16226,-0.338,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4.4,3.35316,-1.047,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4,3.26743,-0.733,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.7,3.2152,-0.485,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.8,3.11252,-0.687,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,5.1,3.26974,-1.83,Humedales de Crestas de Playa
+Puntos IGN,3.7,3.0802,-0.62,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.6,3.29409,-0.306,Humedales de Crestas de Playa
+Puntos IGN,3.5,3.36535,-0.135,Humedales de Crestas de Playa
+Puntos IGN,2.9,3.48954,0.59,Humedales de Crestas de Playa
+Puntos IGN,3.1,3.46938,0.369,Humedales de Crestas de Playa
+Puntos IGN,3.4,2.81649,-0.584,Humedales de Crestas de Playa
+Puntos IGN,3.5,2.86619,-0.634,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.3,2.89413,-0.406,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.7,2.81417,-0.886,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.9,2.86968,-1.03,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.4,2.76462,-1.635,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.83493,-1.165,Humedales de Crestas de Playa
+Puntos IGN,3.3,2.75841,-0.542,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.78688,-0.413,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.75437,-0.446,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.8366,0.137,Humedales de Crestas de Playa
+Puntos IGN,4.2,3.21079,-0.989,Humedales de Crestas de Playa
+Puntos IGN,2.9,3.23555,0.336,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.93948,0.139,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.9,3.14153,0.242,Humedales de Crestas de Playa
+Puntos IGN,3.8,3.18361,-0.616,Humedales de Crestas de Playa
+Puntos IGN,3.7,3.19929,-0.501,Humedales de Crestas de Playa
+Puntos IGN,3.9,3.01625,-0.884,Humedales de Crestas de Playa
+Puntos IGN,3.9,2.98443,-0.916,Humedales de Crestas de Playa
+Puntos IGN,3,2.93465,-0.065,Humedales de Crestas de Playa
+Puntos IGN,3,3.071,0.071,Humedales de Crestas de Playa
+Puntos IGN,3.3,3.31678,0.017,Humedales de Crestas de Playa
+Puntos IGN,3.1,3.3544,0.254,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.28213,0.082,Humedales de Crestas de Playa
+Puntos IGN,3.1,3.26283,0.163,Humedales de Crestas de Playa
+Puntos IGN,3,3.35461,0.355,Humedales de Crestas de Playa
+Puntos IGN,3,3.4031,0.403,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.26538,0.065,Humedales de Crestas de Playa
+Puntos IGN,2.9,3.36376,0.464,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.26337,0.063,Humedales de Crestas de Playa
+Puntos IGN,2.9,3.34094,0.441,Humedales de Crestas de Playa
+Puntos IGN,3.1,3.38056,0.281,Humedales de Crestas de Playa
+Puntos IGN,2.9,3.40991,0.51,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.46003,0.26,Humedales de Crestas de Playa
+Puntos IGN,3,2.83722,-0.163,Humedales de Crestas de Playa
+Puntos IGN,3,2.69758,-0.302,Humedales de Crestas de Playa
+Puntos IGN,3,2.74328,-0.257,Humedales de Crestas de Playa
+Puntos IGN,3,2.9884,-0.012,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.00718,-0.193,Humedales de Crestas de Playa
+Puntos IGN,3.1,2.833,-0.267,Humedales de Crestas de Playa
+Puntos IGN,3,2.73663,-0.263,Humedales de Crestas de Playa
+Puntos IGN,3.3,2.79221,-0.508,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.99841,-0.202,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.97355,0.274,Humedales de Crestas de Playa
+Puntos IGN,3.6,3.50374,-0.096,Humedales de Crestas de Playa
+Puntos IGN,3.6,3.525,-0.075,Humedales de Crestas de Playa
+Puntos IGN,4.3,3.39835,-0.902,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.20407,-0.196,Humedales de Crestas de Playa
+Puntos IGN,3.3,3.75693,0.457,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.49698,0.297,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.59233,0.192,Humedales de Crestas de Playa
+Puntos IGN,4.4,3.47009,-0.93,Humedales de Crestas de Playa
+Puntos IGN,6.1,3.74377,-2.356,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.3,3.85679,0.557,Humedales de Crestas de Playa
+Puntos IGN,4.3,3.63301,-0.667,Humedales de Crestas de Playa
+Puntos IGN,3,3.84251,0.843,Humedales de Crestas de Playa
+Puntos IGN,3.9,4.33737,0.437,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.45258,0.053,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.1,3.33487,-0.765,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.4,3.35693,-1.043,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.3,3.60875,-0.691,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4.4,3.66412,-0.736,Humedales de Crestas de Playa
+Puntos IGN,4,3.65244,-0.348,Humedales de Crestas de Playa
+Puntos IGN,4.13,3.61793,-0.512,Humedales de Crestas de Playa
+Puntos IGN,3.9,3.55792,-0.342,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.5,4.09512,0.595,Humedales de Crestas de Playa
+Puntos IGN,4.4,3.40713,-0.993,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.4,3.62449,0.224,Humedales de Crestas de Playa
+Puntos IGN,4.5,3.61703,-0.883,Humedales de Crestas de Playa
+Puntos IGN,3.3,3.59788,0.298,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.55968,0.36,Humedales de Crestas de Playa
+Puntos IGN,4.2,3.80288,-0.397,Humedales de Crestas de Playa
+Puntos IGN,3.9,4.24309,0.343,Humedales de Crestas de Playa
+Puntos IGN,4,4.41851,0.419,Humedales de Crestas de Playa
+Puntos IGN,4,4.25203,0.252,Humedales de Crestas de Playa
+Puntos IGN,4.2,4.55957,0.36,Humedales de Crestas de Playa
+Puntos IGN,5.3,5.07093,-0.229,Humedales de las grandes lagunas de Victoria
+Puntos IGN,3.8,3.83151,0.032,Humedales de Crestas de Playa
+Puntos IGN,4.9,3.91499,-0.985,Humedales de Crestas de Playa
+Puntos IGN,3.9,4.021,0.121,Humedales de Crestas de Playa
+Puntos IGN,4,4.37693,0.377,Humedales de Crestas de Playa
+Puntos IGN,7.4,4.95139,-2.449,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.8,4.90455,-1.895,Humedales de Crestas de Playa
+Puntos IGN,6.4,4.95792,-1.442,Humedales de las grandes lagunas de Victoria
+Puntos IGN,6.5,4.87318,-1.627,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.8,4.80528,0.005,Humedales de Crestas de Playa
+Puntos IGN,6.7,4.89014,-1.81,Humedales de Crestas de Playa
+Puntos IGN,4.1,4.88252,0.783,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.9,5.04629,0.146,Humedales de las grandes lagunas de Victoria
+Puntos IGN,5.9,4.99378,-0.906,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.8,5.57147,0.771,Humedales de las grandes lagunas de Victoria
+Puntos IGN,4.6,5.13269,0.533,Humedales de Crestas de Playa
+Puntos IGN,4.8,5.39556,0.596,Humedales de las grandes lagunas de Victoria
+Puntos IGN,3.1,3.50484,0.405,Humedales de Crestas de Playa
+Puntos IGN,3.5,3.5273,0.027,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.54725,0.147,Humedales de Crestas de Playa
+Puntos IGN,3.7,3.86039,0.16,Humedales de Crestas de Playa
+Puntos IGN,3.8,3.94892,0.149,Humedales de Crestas de Playa
+Puntos IGN,3.7,3.77848,0.078,Humedales de Crestas de Playa
+Puntos IGN,3.9,3.9775,0.078,Humedales de Crestas de Playa
+Puntos IGN,4,4.21808,0.218,Humedales de Crestas de Playa
+Puntos IGN,3.6,3.94098,0.341,Humedales de Crestas de Playa
+Puntos IGN,3.5,3.53967,0.04,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.51005,0.11,Humedales de Crestas de Playa
+Puntos IGN,3.9,3.7234,-0.177,Humedales de Crestas de Playa
+Puntos IGN,3.9,3.93817,0.038,Humedales de Crestas de Playa
+Puntos IGN,4.4,4.5491,0.149,Humedales de Crestas de Playa
+Puntos IGN,3.7,4.21883,0.519,Humedales de Crestas de Playa
+Puntos IGN,4.3,4.71424,0.414,Humedales de Crestas de Playa
+Puntos IGN,5.5,4.68132,-0.819,Humedales de Crestas de Playa
+Puntos IGN,3.7,4.1806,0.481,Humedales de Crestas de Playa
+Puntos IGN,4.9,5.19031,0.29,Humedales de Crestas de Playa
+Puntos IGN,4.5,4.96825,0.468,Humedales de Crestas de Playa
+Puntos IGN,5.8,5.70739,-0.093,Humedales de Crestas de Playa
+Puntos IGN,4.9,5.15964,0.26,Humedales de Crestas de Playa
+Puntos IGN,5.3,5.72106,0.421,Humedales de Crestas de Playa
+Puntos IGN,5.5,5.58125,0.081,Humedales de Crestas de Playa
+Puntos IGN,3.8,3.99648,0.196,Humedales de Crestas de Playa
+Puntos IGN,3.8,4.51439,0.714,Humedales de Crestas de Playa
+Puntos IGN,4.2,4.89632,0.696,Humedales de Crestas de Playa
+Puntos IGN,5.7,5.70057,0.001,Humedales de Crestas de Playa
+Puntos IGN,4.2,4.83265,0.633,Humedales de Crestas de Playa
+Puntos IGN,4.4,4.76411,0.364,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,6.6,4.26933,-2.331,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3,3.0333,0.033,Humedales de Crestas de Playa
+Puntos IGN,3,3.01894,0.019,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.44732,0.247,Humedales de Crestas de Playa
+Puntos IGN,5.8,4.23522,-1.565,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,7.2,4.301,-2.899,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.8,4.72364,-0.076,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5,4.50149,-0.499,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.4,4.57064,-0.829,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.2,4.24865,0.049,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.4,4.26523,-0.135,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.5,4.30321,-0.197,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.5,5.01165,0.512,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.9,4.78215,-0.118,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5,4.60994,-0.39,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.7,4.4222,-0.278,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.6,4.08698,-0.513,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.9,4.39837,0.498,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,2.9,2.89513,-0.005,Humedales de Crestas de Playa
+Puntos IGN,3,3.00711,0.007,Humedales de Crestas de Playa
+Puntos IGN,3,3.15047,0.15,Humedales de Crestas de Playa
+Puntos IGN,3.2,4.02617,0.826,Humedales de Crestas de Playa
+Puntos IGN,5.5,3.76406,-1.736,Humedales de Crestas de Playa
+Puntos IGN,4.8,3.96206,-0.838,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.9,4.28233,0.382,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5,4.0041,-0.996,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.9,4.83264,-0.067,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.1,4.86501,-0.235,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.8,4.85332,0.053,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.4,4.45957,1.06,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.3,4.47548,0.175,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.4,4.60941,0.209,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.9,4.2124,0.312,Humedales de Crestas de Playa
+Puntos IGN,4.3,4.72996,0.43,Humedales de Crestas de Playa
+Puntos IGN,4.1,4.47631,0.376,Humedales de Crestas de Playa
+Puntos IGN,4.4,4.46926,0.069,Humedales de Crestas de Playa
+Puntos IGN,4.9,4.74199,-0.158,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.8,4.65534,-0.145,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.7,4.54423,-0.156,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.6,4.68696,0.087,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.8,4.5001,-0.3,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.6,4.42756,-0.172,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.6,4.50592,-0.094,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.1,4.59563,0.496,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,6,5.97528,-0.025,Humedales de relieves de la antigua albusfera
+Puntos IGN,6.5,5.31597,-1.184,Humedales de relieves de la antigua albusfera
+Puntos IGN,6.2,6.03657,-0.163,Humedales de relieves de la antigua albusfera
+Puntos IGN,6,5.9648,-0.035,Humedales de relieves de la antigua albusfera
+Puntos IGN,8.4,5.98962,-2.41,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,5.8,5.17332,-0.627,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.5,5.13299,0.633,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,6.3,5.63985,-0.66,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,8.5,6.96754,-1.532,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.6,6.30308,1.703,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,2,1.5705,-0.43,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.30309,-0.397,Humedales de la planicie deltaica superior
+Puntos IGN,2.5,2.1799,-0.32,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.42572,-0.374,Humedales de la planicie deltaica superior
+Puntos IGN,2.7,2.15431,-0.546,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,2.07966,-0.02,Humedales de la planicie deltaica superior
+Puntos IGN,2.9,2.48142,-0.419,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,1.84821,-0.452,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,1.95514,-0.345,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,2.10684,-0.193,Humedales de Crestas de Playa
+Puntos IGN,1.7,1.85221,0.152,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.88034,0.08,Humedales de la planicie deltaica superior
+Puntos IGN,2.9,1.89143,-1.009,Humedales de la planicie deltaica superior
+Puntos IGN,3,1.92999,-1.07,Humedales de la planicie deltaica superior
+Puntos IGN,3.9,2.12197,-1.778,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.42598,-0.274,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.60733,-0.293,Humedales de la planicie deltaica superior
+Puntos IGN,2,1.68247,-0.318,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.66392,0.264,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,1.62307,-0.477,Humedales de la planicie deltaica superior
+Puntos IGN,1.3,1.59403,0.294,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.59798,0.098,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,1.53151,-0.568,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.40489,0.005,Humedales de la planicie deltaica superior
+Puntos IGN,1.3,1.49446,0.194,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.58678,-0.213,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.40001,-0.2,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.33218,-0.268,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.25131,-0.549,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.32361,-0.276,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.49872,-0.301,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.83801,0.238,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.15733,0.557,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,2.13081,0.331,Humedales de la planicie deltaica superior
+Puntos IGN,3.1,2.86979,-0.23,Humedales de la planicie deltaica superior
+Puntos IGN,3,2.6386,-0.361,Humedales de la planicie deltaica superior
+Puntos IGN,2,2.81764,0.818,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,2.32366,0.224,Humedales de la planicie deltaica superior
+Puntos IGN,2.7,2.66843,-0.032,Humedales de la planicie deltaica superior
+Puntos IGN,2,2.32583,0.326,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,2.60402,1.104,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.67872,1.079,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,2.62309,0.723,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,2.53654,0.637,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,2.07653,0.377,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.01284,0.413,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.62144,-0.179,Humedales de la planicie deltaica superior
+Puntos IGN,1.2,1.5419,0.342,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.97627,0.376,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.89479,0.095,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.98168,-0.218,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.16665,0.567,Humedales de la planicie deltaica superior
+Puntos IGN,2.6,1.70374,-0.896,Humedales de la planicie deltaica superior
+Puntos IGN,2.6,1.6867,-0.913,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,1.62989,-0.47,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.66567,-0.234,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.81908,0.019,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,2.03299,0.333,Humedales de la planicie deltaica superior
+Puntos IGN,3.2,1.821,-1.379,Humedales de la planicie deltaica superior
+Puntos IGN,2.46,2.34801,-0.112,Humedales de la planicie deltaica superior
+Puntos IGN,3.3,2.95302,-0.347,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.5,2.18777,-0.312,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,2.7004,0.3,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.58692,-0.013,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.00631,-0.594,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.3,2.10946,-0.191,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,1.9,2.30269,0.403,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.56741,-0.233,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.5562,-0.044,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.4,1.91904,-0.481,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.4,2.09083,-0.309,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.09715,-0.503,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.21399,-0.786,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.58687,-0.413,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.56548,-0.035,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,1.9,2.52788,0.628,Humedales de la planicie deltaica superior
+Puntos IGN,2.8,2.62726,-0.173,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,1.9,2.50129,0.601,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,1.77,2.39648,0.626,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.3,2.55631,0.256,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.8,2.18246,-0.618,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.3,2.19539,-1.105,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.19017,-0.51,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.25532,-0.345,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.10453,-0.595,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.14183,-0.558,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.22341,-0.477,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.56855,-0.131,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.2,1.66444,-0.536,Humedales de Crestas de Playa
+Puntos IGN,2.8,1.63907,-1.161,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.73255,-0.667,Humedales de Crestas de Playa
+Puntos IGN,1.9,1.86606,-0.034,Humedales de Crestas de Playa
+Puntos IGN,2,1.69896,-0.301,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.77692,-0.423,Humedales de Crestas de Playa
+Puntos IGN,1.6,1.67546,0.075,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.50204,-0.098,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.47932,-0.121,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.56233,0.162,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.61633,0.016,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.58792,-0.012,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.83195,0.332,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.47416,-0.226,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.41342,-0.387,Humedales de la planicie deltaica superior
+Puntos IGN,2.6,1.70963,-0.89,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.21662,-0.983,Humedales de la planicie deltaica superior
+Puntos IGN,1.3,1.0799,-0.22,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.31957,-0.28,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,0.95872,-0.641,Humedales de la planicie deltaica superior
+Puntos IGN,1.2,1.03643,-0.164,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.17021,-0.23,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.25473,-0.545,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.15438,-0.246,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.01156,-0.888,Humedales de la planicie deltaica superior
+Puntos IGN,2,1.09242,-0.908,Humedales de Crestas de Playa
+Puntos IGN,1.2,1.32418,0.124,Humedales de Crestas de Playa
+Puntos IGN,1.2,1.2609,0.061,Humedales de Crestas de Playa
+Puntos IGN,1.5,1.23898,-0.261,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.31269,-0.187,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.45692,-0.243,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.59756,0.198,Humedales de la planicie deltaica superior
+Puntos IGN,2.9,1.25656,-1.643,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.16133,-0.939,Humedales de Crestas de Playa
+Puntos IGN,1.1,1.30271,0.203,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.3087,-0.491,Humedales de Crestas de Playa
+Puntos IGN,1.6,1.32843,-0.272,Humedales de Crestas de Playa
+Puntos IGN,2.3,1.29674,-1.003,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.31688,-1.083,Humedales de Crestas de Playa
+Puntos IGN,1.9,1.36077,-0.539,Humedales de Crestas de Playa
+Puntos IGN,1.3,1.5384,0.238,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.60184,0.002,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.53907,-0.061,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.34101,-0.259,Humedales de Crestas de Playa
+Puntos IGN,2,1.33708,-0.663,Humedales de Crestas de Playa
+Puntos IGN,2.3,1.43675,-0.863,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.3841,-0.416,Humedales de Crestas de Playa
+Puntos IGN,1.6,1.36486,-0.235,Humedales de Crestas de Playa
+Puntos IGN,2.7,1.36082,-1.339,Humedales de Crestas de Playa
+Puntos IGN,2,1.40943,-0.591,Humedales de Crestas de Playa
+Puntos IGN,1.3,1.48906,0.189,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.6421,-0.258,Humedales de Crestas de Playa
+Puntos IGN,2.9,1.53565,-1.364,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.43701,-0.363,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.42174,-0.678,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.39768,-0.402,Humedales de Crestas de Playa
+Puntos IGN,1.6,1.43206,-0.168,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.47991,-0.72,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.42189,-0.778,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.62663,-0.173,Humedales de Crestas de Playa
+Puntos IGN,2.5,1.75832,-0.742,Humedales de Crestas de Playa
+Puntos IGN,1.9,1.79871,-0.101,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.65158,-0.248,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,2.96613,0.766,Humedales de la planicie deltaica superior
+Puntos IGN,2,2.89736,0.897,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,2.77391,0.874,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,2.59868,0.299,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,2.6468,0.847,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,3.11823,0.718,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,2.20031,0.5,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,2.67276,0.573,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.8,2.1734,-0.627,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.9,2.87086,-0.029,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.4,2.79112,0.391,Humedales de la planicie deltaica superior
+Puntos IGN,2.6,3.11561,0.516,Humedales de la planicie deltaica superior
+Puntos IGN,2.9,3.08127,0.181,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,1.96568,-0.134,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.94546,0.145,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,2.27088,0.071,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,2.78685,0.887,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,2.59264,0.493,Humedales de la planicie deltaica superior
+Puntos IGN,2,2.06993,0.07,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,1.96552,-0.434,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.20616,0.606,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,2.26335,-0.037,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,2.38564,0.786,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,1.6,2.4188,0.819,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.1,2.52267,0.423,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2,2.62266,0.623,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.7,2.53106,-0.169,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.7,2.57035,-0.13,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.7,2.54897,-0.151,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.5,2.56749,0.067,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.4,2.5543,0.154,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.5,2.71806,0.218,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.46482,-0.135,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.82334,-0.177,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,3.0175,0.817,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,2.71139,0.311,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2,2.41644,0.416,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.47356,-0.126,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.42889,-0.271,Humedales de la planicie deltaica superior
+Puntos IGN,1.3,1.55181,0.252,Humedales de la planicie deltaica superior
+Puntos IGN,1.3,1.25351,-0.046,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.72557,-0.074,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,2.06525,0.665,Humedales del Delta frontal
+Puntos IGN,2,1.99193,-0.008,Humedales del Delta frontal
+Puntos IGN,1.6,2.03101,0.431,Humedales del Delta frontal
+Puntos IGN,1.1,1.98189,0.882,Humedales del Delta frontal
+Puntos IGN,1.6,2.04366,0.444,Humedales del Delta frontal
+Puntos IGN,1.6,1.96918,0.369,Humedales del Delta en formacion
+Puntos IGN,1.9,1.91196,0.012,Humedales del Delta frontal
+Puntos IGN,1.6,1.86774,0.268,Humedales del Delta frontal
+Puntos IGN,1.6,1.95308,0.353,Humedales del Delta frontal
+Puntos IGN,1.6,2.0092,0.409,Humedales del Delta frontal
+Puntos IGN,1.4,1.85745,0.457,Humedales del Delta frontal
+Puntos IGN,2.1,1.79326,-0.307,Humedales del Delta frontal
+Puntos IGN,2,1.72342,-0.277,Humedales del Delta frontal
+Puntos IGN,1.7,1.69527,-0.005,Humedales del Delta frontal
+Puntos IGN,1.6,1.64647,0.046,Humedales del Delta frontal
+Puntos IGN,1.7,1.89727,0.197,Humedales del Delta frontal
+Puntos IGN,2.1,1.72453,-0.375,Humedales del Delta frontal
+Puntos IGN,2,1.6995,-0.301,Humedales del Delta frontal
+Puntos IGN,1.8,1.88248,0.082,Humedales del Delta frontal
+Puntos IGN,1.4,1.98784,0.588,Humedales del Delta en formacion
+Puntos IGN,1.3,2.26547,0.965,Humedales del Delta frontal
+Puntos IGN,1.3,2.25492,0.955,Humedales del Delta frontal
+Puntos IGN,1.5,1.70891,0.209,Humedales del Delta en formacion
+Puntos IGN,1.2,1.1351,-0.065,Humedales del Delta en formacion
+Puntos IGN,1.5,1.12433,-0.376,Humedales del Delta frontal
+Puntos IGN,2.2,1.90143,-0.299,Humedales del Delta frontal
+Puntos IGN,1.3,1.94742,0.647,Humedales del Delta en formacion
+Puntos IGN,1.8,1.92161,0.122,Humedales del Delta frontal
+Puntos IGN,1.7,1.84964,0.15,Humedales del Delta frontal
+Puntos IGN,1.8,1.02401,-0.776,Humedales del Delta frontal
+Puntos IGN,1.2,0.69044,-0.51,Humedales del Delta frontal
+Puntos IGN,2.2,1.24442,-0.956,Humedales del Delta frontal
+Puntos IGN,1.4,1.11312,-0.287,Humedales del Delta frontal
+Puntos IGN,1.6,0.77384,-0.826,Humedales del Delta frontal
+Puntos IGN,2.3,0.39594,-1.904,Humedales del Delta frontal
+Puntos IGN,1.2,0.38433,-0.816,Humedales del Delta frontal
+Puntos IGN,2.1,0.96223,-1.138,Humedales del Delta frontal
+Puntos IGN,2.1,1.37985,-0.72,Humedales del Delta frontal
+Puntos IGN,1.8,1.64855,-0.151,Humedales del Delta frontal
+Puntos IGN,2.2,1.78879,-0.411,Humedales del Delta frontal
+Puntos IGN,2.3,1.62931,-0.671,Humedales del Delta frontal
+Puntos IGN,1.9,1.82467,-0.075,Humedales del Delta frontal
+Puntos IGN,1.6,2.058,0.458,Humedales del Delta frontal
+Puntos IGN,1.6,1.99698,0.397,Humedales del Delta frontal
+Puntos IGN,1.6,1.90119,0.301,Humedales del Delta frontal
+Puntos IGN,1.7,1.80042,0.1,Humedales del Delta frontal
+Puntos IGN,1.3,1.90453,0.605,Humedales del Delta frontal
+Puntos IGN,1.9,1.50219,-0.398,Humedales del Delta frontal
+Puntos IGN,1.7,1.45544,-0.245,Humedales del Delta frontal
+Puntos IGN,1,1.63777,0.638,Humedales del Delta frontal
+Puntos IGN,1.1,1.46203,0.362,Humedales del Delta frontal
+Puntos IGN,1.8,1.54771,-0.252,Humedales del Delta frontal
+Puntos IGN,1.5,1.97922,0.479,Humedales del Delta frontal
+Puntos IGN,1.4,1.77403,0.374,Humedales del Delta frontal
+Puntos IGN,1.8,1.54601,-0.254,Humedales del Delta frontal
+Puntos IGN,1.1,1.46049,0.36,Humedales del Delta frontal
+Puntos IGN,1.1,1.58778,0.488,Humedales del Delta frontal
+Puntos IGN,1.1,1.28012,0.18,Humedales del Delta frontal
+Puntos IGN,1.1,1.29949,0.199,Humedales del Delta frontal
+Puntos IGN,1.4,1.69696,0.297,Humedales del Delta frontal
+Puntos IGN,1.8,1.87572,0.076,Humedales del Delta frontal
+Puntos IGN,1.9,1.54674,-0.353,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.7507,-0.149,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.15071,-0.549,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,0.86233,-1.338,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.27349,-0.127,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.498,-0.102,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.74538,-0.055,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.68921,0.289,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.70613,-0.094,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.38491,-0.215,Humedales de la planicie deltaica superior
+Puntos IGN,2.5,1.55494,-0.945,Humedales del Delta frontal
+Puntos IGN,2,1.59661,-0.403,Humedales del Delta frontal
+Puntos IGN,1.9,1.70229,-0.198,Humedales del Delta frontal
+Puntos IGN,2.2,1.68268,-0.517,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.66365,-0.036,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,1.48252,-0.817,Humedales de la planicie deltaica superior
+Puntos IGN,2.3,1.18777,-1.112,Humedales del Delta frontal
+Puntos IGN,2.1,0.77559,-1.324,Humedales del Delta frontal
+Puntos IGN,1.3,0.67121,-0.629,Humedales del Delta frontal
+Puntos IGN,1.4,0.71125,-0.689,Humedales del Delta frontal
+Puntos IGN,1.7,0.69962,-1,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,0.80782,-1.092,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.02175,-0.678,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,0.81593,-0.884,Humedales del Delta frontal
+Puntos IGN,2.1,1.26108,-0.839,Humedales del Delta frontal
+Puntos IGN,2,1.24873,-0.751,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.20322,-0.597,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.20691,-0.393,Humedales de la planicie deltaica superior
+Puntos IGN,1.85,1.18912,-0.661,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.15008,-0.35,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,0.8202,-1.28,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,0.80564,-0.894,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,0.99366,-1.106,Humedales de la planicie deltaica superior
+Puntos IGN,2,1.17479,-0.825,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.27364,-0.926,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.38391,-0.516,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.57457,-0.225,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.59476,-0.205,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.08726,-0.313,Humedales de la planicie deltaica superior
+Puntos IGN,1.8,1.05911,-0.741,Humedales de la planicie deltaica superior
+Puntos IGN,2.1,1.1158,-0.984,Humedales de la planicie deltaica superior
+Puntos IGN,2,1.13918,-0.861,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,1.14171,-1.258,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.08225,-1.118,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.20033,-0.3,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.17824,-0.322,Humedales de la planicie deltaica superior
+Puntos IGN,1.4,1.24982,-0.15,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.70454,-0.195,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.63726,-0.263,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,1.58377,-0.316,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,1.46686,-0.233,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.46603,-0.134,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,1.2497,-1.15,Humedales de la planicie deltaica superior
+Puntos IGN,2.4,0.93953,-1.46,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.02163,-0.478,Humedales de la planicie deltaica superior
+Puntos IGN,1.9,2.05329,0.153,Humedales del Delta frontal
+Puntos IGN,1.1,1.7132,0.613,Humedales del Delta frontal
+Puntos IGN,1.4,1.90292,0.503,Humedales del Delta frontal
+Puntos IGN,1.4,2.05168,0.652,Humedales del Delta frontal
+Puntos IGN,1.9,2.21597,0.316,Humedales del Delta frontal
+Puntos IGN,1.3,1.99185,0.692,Humedales del Delta frontal
+Puntos IGN,1.4,2.02735,0.627,Humedales del Delta frontal
+Puntos IGN,1.5,2.13,0.63,Humedales del Delta frontal
+Puntos IGN,1.8,2.44602,0.646,Humedales del Delta frontal
+Puntos IGN,1.2,2.32946,1.129,Humedales del Delta frontal
+Puntos IGN,1.6,2.01171,0.412,Humedales del Delta frontal
+Puntos IGN,1.3,2.09812,0.798,Humedales del Delta frontal
+Puntos IGN,1.5,1.76637,0.266,Humedales del Delta frontal
+Puntos IGN,2.2,2.04203,-0.158,Humedales del Delta frontal
+Puntos IGN,2.1,1.97389,-0.126,Humedales del Delta frontal
+Puntos IGN,1.7,1.66762,-0.032,Humedales del Delta frontal
+Puntos IGN,1.4,1.77928,0.379,Humedales del Delta frontal
+Puntos IGN,1.55,1.75081,0.201,Humedales del Delta frontal
+Puntos IGN,1.5,1.75708,0.257,Humedales del Delta frontal
+Puntos IGN,1.11,1.69387,0.584,Humedales del Delta frontal
+Puntos IGN,1.4,2.01489,0.615,Humedales del Delta frontal
+Puntos IGN,1.4,2.19129,0.791,Humedales del Delta frontal
+Puntos IGN,1.7,1.75342,0.053,Humedales del Delta frontal
+Puntos IGN,1.2,1.29012,0.09,Humedales del Delta frontal
+Puntos IGN,1.6,1.53302,-0.067,Humedales del Delta frontal
+Puntos IGN,2,2.01726,0.017,Humedales del Delta frontal
+Puntos IGN,1.3,2.21398,0.914,Humedales del Delta frontal
+Puntos IGN,1.3,2.13475,0.835,Humedales del Delta frontal
+Puntos IGN,1.1,1.7132,0.613,Humedales del Delta frontal
+Puntos IGN,1.4,2.06345,0.663,Humedales del Delta frontal
+Puntos IGN,1,1.50765,0.508,Humedales de la planicie deltaica superior
+Puntos IGN,1.6,1.85615,0.256,Humedales de la planicie deltaica superior
+Puntos IGN,1.7,2.2042,0.504,Humedales del Delta frontal
+Puntos IGN,1.1,1.58603,0.486,Humedales de la planicie deltaica superior
+Puntos IGN,1,1.67568,0.676,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,2.29595,0.096,Humedales del Delta frontal
+Puntos IGN,2.17,2.65461,0.485,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,0.7,1.68396,0.984,Humedales de Crestas de Playa
+Puntos IGN,1.8,2.29562,0.496,Humedales de Crestas de Playa
+Puntos IGN,6.9,3.82103,-3.079,Humedales de los relieves de Ibicuy
+Puntos IGN,7.2,3.28634,-3.914,Humedales de los relieves de Ibicuy
+Puntos IGN,3.9,2.51304,-1.387,Humedales de los relieves de Ibicuy
+Puntos IGN,1,2.19793,1.198,Humedales de los relieves de Ibicuy
+Puntos IGN,4.9,2.45005,-2.45,Humedales de los relieves de Ibicuy
+Puntos IGN,2.4,3.68314,1.283,Humedales de los relieves de Ibicuy
+Puntos IGN,8.6,4.10369,-4.496,Humedales de los relieves de Ibicuy
+Puntos IGN,6.1,3.40797,-2.692,Humedales de los relieves de Ibicuy
+Puntos IGN,5.9,3.38643,-2.514,Humedales de los relieves de Ibicuy
+Puntos IGN,2.3,2.13259,-0.167,Humedales de Crestas de Playa
+Puntos IGN,6.8,3.72492,-3.075,Humedales de los relieves de Ibicuy
+Puntos IGN,5.7,4.29372,-1.406,Humedales de Crestas de Playa
+Puntos IGN,3.4,3.58543,0.185,Humedales de Crestas de Playa
+Puntos IGN,2.6,3.50947,0.909,Humedales de Crestas de Playa
+Puntos IGN,2.5,3.25183,0.752,Humedales de Crestas de Playa
+Puntos IGN,5.7,3.34697,-2.353,Humedales de los relieves de Ibicuy
+Puntos IGN,2.6,3.10046,0.5,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.94669,-0.253,Humedales de Crestas de Playa
+Puntos IGN,3.8,3.36577,-0.434,Humedales de los relieves de Ibicuy
+Puntos IGN,3.1,3.63452,0.535,Humedales de Crestas de Playa
+Puntos IGN,9.7,5.84071,-3.859,Humedales de los relieves de Ibicuy
+Puntos IGN,1.3,4.51535,3.215,Humedales de los relieves de Ibicuy
+Puntos IGN,5,4.71424,-0.286,Humedales de los relieves de Ibicuy
+Puntos IGN,3,2.99764,-0.002,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.67537,0.375,Humedales de Crestas de Playa
+Puntos IGN,4.2,3.38749,-0.813,Humedales de los relieves de Ibicuy
+Puntos IGN,4.1,4.16722,0.067,Humedales de los relieves de Ibicuy
+Puntos IGN,6.7,5.08804,-1.612,Humedales de los relieves de Ibicuy
+Puntos IGN,4.8,4.64963,-0.15,Humedales de los relieves de Ibicuy
+Puntos IGN,2.5,3.04182,0.542,Humedales de la planicie deltaica superior
+Puntos IGN,5.9,3.43284,-2.467,Humedales de los relieves de Ibicuy
+Puntos IGN,5.5,3.18372,-2.316,Humedales de los relieves de Ibicuy
+Puntos IGN,4,3.69619,-0.304,Humedales de los relieves de Ibicuy
+Puntos IGN,3,2.88011,-0.12,Humedales de los relieves de Ibicuy
+Puntos IGN,4.7,3.27427,-1.426,Humedales de los relieves de Ibicuy
+Puntos IGN,7.8,4.94192,-2.858,Humedales de los relieves de Ibicuy
+Puntos IGN,4.4,4.05669,-0.343,Humedales de los relieves de Ibicuy
+Puntos IGN,2,1.77967,-0.22,Humedales de paleobahias y paleoestuarios ribere?os
+Puntos IGN,1.9,1.60271,-0.297,Humedales de la planicie deltaica superior
+Puntos IGN,2.2,1.62395,-0.576,Humedales de la planicie deltaica superior
+Puntos IGN,9.5,4.42298,-5.077,Humedales de los relieves de Ibicuy
+Puntos IGN,9.6,4.35329,-5.247,Humedales de los relieves de Ibicuy
+Puntos IGN,8.6,4.02931,-4.571,Humedales de los relieves de Ibicuy
+Puntos IGN,3.1,3.08903,-0.011,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.7,3.19354,0.494,Humedales de los relieves de Ibicuy
+Puntos IGN,1.57,2.27757,0.708,Humedales del Delta frontal
+Puntos IGN,1.72,2.23653,0.517,Humedales del Delta frontal
+Puntos IGN,1.63,2.06141,0.431,Humedales del Delta frontal
+Puntos IGN,1.45,1.78961,0.34,Humedales del Delta frontal
+Puntos IGN,1.72,1.786,0.066,Humedales del Delta frontal
+Puntos IGN,1.7,1.91795,0.218,Humedales del Delta frontal
+Puntos IGN,1.27,1.99182,0.722,Humedales del Delta frontal
+Puntos IGN,1.25,1.99157,0.742,Humedales del Delta frontal
+Puntos IGN,1.16,1.91284,0.753,Humedales del Delta frontal
+Puntos IGN,1.02,1.87464,0.855,Humedales del Delta frontal
+Puntos IGN,1.51,1.97906,0.469,Humedales del Delta frontal
+Puntos IGN,1.15,1.98319,0.833,Humedales del Delta frontal
+Puntos IGN,1.12,2.43674,1.317,Humedales del Delta frontal
+Puntos IGN,1.58,2.09086,0.511,Humedales del Delta frontal
+Puntos IGN,1.34,1.90981,0.57,Humedales del Delta frontal
+Puntos IGN,1.81,1.9826,0.173,Humedales del Delta frontal
+Puntos IGN,2.07,1.73295,-0.337,Humedales del Delta frontal
+Puntos IGN,1.64,1.75325,0.113,Humedales del Delta frontal
+Puntos IGN,1.99,1.99092,0.001,Humedales del Delta frontal
+Puntos IGN,1.81,1.9826,0.173,Humedales del Delta frontal
+Puntos IGN,2.09,1.91693,-0.173,Humedales del Delta frontal
+Puntos IGN,1.55,1.90226,0.352,Humedales del Delta frontal
+Puntos IGN,1.8,1.87567,0.076,Humedales del Delta frontal
+Puntos IGN,2.31,1.92066,-0.389,Humedales del Delta frontal
+Puntos IGN,2.21,1.91472,-0.295,Humedales del Delta frontal
+Puntos IGN,1.93,1.89644,-0.034,Humedales del Delta frontal
+Puntos IGN,1.61,1.78967,0.18,Humedales del Delta frontal
+Puntos IGN,2.58,2.06269,-0.517,Humedales del Delta frontal
+Puntos IGN,1.71,2.06122,0.351,Humedales del Delta frontal
+Puntos IGN,1.47,2.09755,0.628,Humedales del Delta frontal
+Puntos IGN,1.5,2.01623,0.516,Humedales del Delta frontal
+Puntos IGN,1.46,1.7886,0.329,Humedales del Delta frontal
+Puntos IGN,2.94,1.64312,-1.297,Humedales de la planicie deltaica superior
+Puntos IGN,3.02,1.6376,-1.382,Humedales de la planicie deltaica superior
+Puntos IGN,1.92,1.69358,-0.226,Humedales del Delta frontal
+Puntos IGN,1.51,1.6801,0.17,Humedales del Delta frontal
+Puntos IGN,2,1.66349,-0.337,Humedales del Delta frontal
+Puntos IGN,2.11,1.56468,-0.545,Humedales del Delta frontal
+Puntos IGN,1.68,1.43247,-0.248,Humedales de la planicie deltaica superior
+Puntos IGN,1.84,1.60672,-0.233,Humedales de la planicie deltaica superior
+Puntos IGN,1.73,1.68507,-0.045,Humedales de la planicie deltaica superior
+Puntos IGN,2.07,1.64269,-0.427,Humedales del Delta frontal
+Puntos IGN,1.616,2.19619,0.58,Humedales del Delta frontal
+Puntos IGN,1.6,2.36619,0.766,Humedales del Delta frontal
+Puntos IGN,1.2,2.35978,1.16,Humedales de la planicie deltaica superior
+Puntos IGN,1.63,2.4051,0.775,Humedales de la planicie deltaica superior
+Puntos IGN,1.71,2.1318,0.422,Humedales de la planicie deltaica superior
+Puntos IGN,1.78,2.39734,0.617,Humedales de la planicie deltaica superior
+Puntos IGN,1.75,2.21577,0.466,Humedales de la planicie deltaica superior
+Puntos IGN,2.25,1.95029,-0.3,Humedales del Delta frontal
+Puntos IGN,2.1,1.48713,-0.613,Humedales de la planicie deltaica superior
+Puntos IGN,3.2,2.15481,-1.045,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.34606,-0.054,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.10322,0.203,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.34914,0.049,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.43511,0.235,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.13772,0.238,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.57845,-0.322,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.20217,0.302,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.15192,-1.048,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.12174,-0.178,Humedales de Crestas de Playa
+Puntos IGN,2.1,2.09443,-0.006,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.10065,-0.299,Humedales de Crestas de Playa
+Puntos IGN,2,2.10065,0.101,Humedales de Crestas de Playa
+Puntos IGN,2,2.02994,0.03,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.02072,-0.379,Humedales de Crestas de Playa
+Puntos IGN,2,1.97087,-0.029,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.96228,-0.438,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.00019,-0.2,Humedales de Crestas de Playa
+Puntos IGN,1.5,1.95329,0.453,Humedales de Crestas de Playa
+Puntos IGN,1.7,2.07765,0.378,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.18429,-0.116,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.31506,-0.385,Humedales de Crestas de Playa
+Puntos IGN,3.6,3.16283,-0.437,Humedales de los relieves de Ibicuy
+Puntos IGN,3.4,3.24774,-0.152,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.49998,-0.2,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.4063,0.106,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.18066,-0.419,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.10486,-0.195,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.06991,-0.33,Humedales de Crestas de Playa
+Puntos IGN,2.1,2.04657,-0.053,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.11818,-0.782,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.04583,-0.254,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.9986,-0.101,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.97496,-0.125,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.96775,-0.132,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.94503,-0.255,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.92428,-0.476,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.92396,-0.476,Humedales de Crestas de Playa
+Puntos IGN,2.1,2.02352,-0.076,Humedales de Crestas de Playa
+Puntos IGN,2,2.07574,0.076,Humedales de Crestas de Playa
+Puntos IGN,3.2,2.96045,-0.24,Humedales de los relieves de Ibicuy
+Puntos IGN,2.6,2.25069,-0.349,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.10798,-0.092,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.00541,-0.295,Humedales de Crestas de Playa
+Puntos IGN,1.7,1.99171,0.292,Humedales de Crestas de Playa
+Puntos IGN,1.3,1.94571,0.646,Humedales de Crestas de Playa
+Puntos IGN,4.9,2.96577,-1.934,Humedales de los relieves de Ibicuy
+Puntos IGN,3,3.07812,0.078,Humedales de los relieves de Ibicuy
+Puntos IGN,2.6,2.34655,-0.253,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.36598,-0.434,Humedales de Crestas de Playa
+Puntos IGN,2,2.09189,0.092,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.04407,-0.356,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.99386,-0.406,Humedales de Crestas de Playa
+Puntos IGN,2,2.00844,0.008,Humedales de Crestas de Playa
+Puntos IGN,2.3,1.95487,-0.345,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.93909,-0.261,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.95555,-0.144,Humedales de Crestas de Playa
+Puntos IGN,2.6,1.93165,-0.668,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.70216,-0.098,Humedales de Crestas de Playa
+Puntos IGN,2.3,1.89806,-0.402,Humedales de Crestas de Playa
+Puntos IGN,2,1.79576,-0.204,Humedales de Crestas de Playa
+Puntos IGN,1.9,1.88765,-0.012,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.84872,-0.251,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.93629,-0.164,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.98306,-0.217,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.98761,-0.212,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.1117,-0.188,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.10479,-0.295,Humedales de Crestas de Playa
+Puntos IGN,2,2.03269,0.033,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.19731,-0.203,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.18239,-0.418,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.33895,-0.061,Humedales de Crestas de Playa
+Puntos IGN,1.7,2.26142,0.561,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.40768,-0.192,Humedales de Crestas de Playa
+Puntos IGN,3.8,2.58057,-1.219,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.16038,-0.44,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.98648,-0.114,Humedales de Crestas de Playa
+Puntos IGN,3.1,2.01485,-1.085,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.00576,-0.194,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.07232,-0.528,Humedales de Crestas de Playa
+Puntos IGN,2,2.00576,0.006,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.0755,-0.125,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.04721,0.147,Humedales de Crestas de Playa
+Puntos IGN,2.1,2.0665,-0.034,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.108,-0.192,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.17519,-0.225,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.22371,-0.076,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.39959,0.1,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.13336,-0.067,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.80897,0.009,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.39341,-0.207,Humedales de los relieves de Ibicuy
+Puntos IGN,4,2.19746,-1.803,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.11821,0.218,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.13008,-0.07,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.1125,-0.088,Humedales de Crestas de Playa
+Puntos IGN,1.7,2.09785,0.398,Humedales de Crestas de Playa
+Puntos IGN,2,2.04198,0.042,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.99643,-0.404,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.09475,-0.105,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.24686,-0.353,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.38619,-0.014,Humedales de Crestas de Playa
+Puntos IGN,2,2.70191,0.702,Humedales de Crestas de Playa
+Puntos IGN,3.3,2.39069,-0.909,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.7,2.26546,-0.435,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.1,2.39309,-0.707,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.47664,-1.523,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.9,2.2954,-0.605,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.29815,-0.702,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.3401,-0.26,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.2981,-0.302,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.9,2.33486,-0.565,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.8,2.43654,-0.363,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.31455,-0.485,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.6,2.51617,-1.084,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.37492,-0.625,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.42915,-0.571,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.31586,-0.284,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.34349,-0.257,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.7,2.38181,-1.318,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4.1,2.42445,-1.676,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.42707,-1.573,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.48232,-0.118,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.49986,-0.1,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.48818,-0.112,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.4407,-1.559,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.45068,-0.149,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.45476,-0.145,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.5,2.52349,0.023,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.48711,-0.113,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.45446,-0.146,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.53543,-0.265,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.61932,-0.081,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.72071,0.121,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.623,0.023,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.46514,-0.135,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.5,2.52474,0.025,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.65853,0.059,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.5173,-0.183,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.4,2.56213,0.162,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.7,2.38162,-1.318,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.56213,-0.038,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.55283,-0.247,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,1.91417,-0.686,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.92144,-0.479,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.0079,-0.292,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.09463,-0.305,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.12881,-0.271,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.14471,-0.555,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.07135,-0.229,Humedales de Crestas de Playa
+Puntos IGN,2,2.16173,0.162,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.28995,-0.01,Humedales de Crestas de Playa
+Puntos IGN,4.1,2.34662,-1.753,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4.1,2.31701,-1.783,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.30465,0.005,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.38048,-0.22,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.23949,-0.661,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.18198,-0.118,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.25419,-0.346,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.23199,-0.568,Humedales de Crestas de Playa
+Puntos IGN,3.3,2.44765,-0.852,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.46569,0.066,Humedales de Crestas de Playa
+Puntos IGN,3.8,2.43206,-1.368,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.28615,-0.314,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.25264,-0.347,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.3,2.30647,0.006,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.41523,-0.185,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.41425,-0.186,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.27863,-0.421,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.31632,-0.484,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.4,2.28806,-0.112,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.23478,-0.365,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.48924,-0.311,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.49212,-0.108,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.39485,-0.305,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4.6,2.4016,-2.198,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.6,2.32534,-1.275,Humedales de Crestas de Playa
+Puntos IGN,3.4,2.36305,-1.037,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.27467,-0.325,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.2489,-0.351,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.41018,-0.19,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.40825,-0.392,Humedales de Crestas de Playa
+Puntos IGN,3.1,2.38846,-0.712,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.2,2.12094,-1.079,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.08373,0.184,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.95026,0.15,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.33402,0.134,Humedales de Crestas de Playa
+Puntos IGN,1.9,2.07831,0.178,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.03703,-0.163,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.51215,0.212,Humedales de Crestas de Playa
+Puntos IGN,4.9,5.1888,0.289,Humedales de relieves de la antigua albusfera
+Puntos IGN,5.8,5.14704,-0.653,Humedales de relieves de la antigua albusfera
+Puntos IGN,2.9,2.40516,-0.495,Humedales de Crestas de Playa
+Puntos IGN,3.6,2.87559,-0.724,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.48124,-0.319,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,1.9,2.14628,0.246,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.24622,-0.054,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.27147,-0.329,Humedales de Crestas de Playa
+Puntos IGN,3.4,2.43792,-0.962,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.07837,-0.822,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.06374,-0.136,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.34519,-0.055,Humedales de Crestas de Playa
+Puntos IGN,2,1.98201,-0.018,Humedales de Crestas de Playa
+Puntos IGN,1.7,1.96129,0.261,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.1559,-0.144,Humedales de Crestas de Playa
+Puntos IGN,2.5,2.24486,-0.255,Humedales de Crestas de Playa
+Puntos IGN,2.4,1.93737,-0.463,Humedales de Crestas de Playa
+Puntos IGN,2.3,1.94324,-0.357,Humedales de Crestas de Playa
+Puntos IGN,2.2,1.92401,-0.276,Humedales de Crestas de Playa
+Puntos IGN,2,1.98059,-0.019,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.11087,-0.589,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.39752,-0.202,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.25352,-0.346,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.06057,-0.239,Humedales de Crestas de Playa
+Puntos IGN,2.5,1.93281,-0.567,Humedales de Crestas de Playa
+Puntos IGN,2.6,1.93383,-0.666,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.55734,-0.043,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.55631,-0.144,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.22432,-0.176,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.42452,0.125,Humedales de Crestas de Playa
+Puntos IGN,3.2,3.06904,-0.131,Humedales de Crestas de Playa
+Puntos IGN,3.1,3.00746,-0.093,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.90865,0.209,Humedales de Crestas de Playa
+Puntos IGN,3,2.85308,-0.147,Humedales de Crestas de Playa
+Puntos IGN,6.3,4.93173,-1.368,Humedales de relieves de la antigua albusfera
+Puntos IGN,5.3,4.46946,-0.831,Humedales de relieves de la antigua albusfera
+Puntos IGN,4.7,4.88058,0.181,Humedales de relieves de la antigua albusfera
+Puntos IGN,4.5,4.15544,-0.345,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.2,3.50001,0.3,Humedales de Crestas de Playa
+Puntos IGN,5.9,5.16188,-0.738,Humedales de relieves de la antigua albusfera
+Puntos IGN,5.2,5.45253,0.253,Humedales de relieves de la antigua albusfera
+Puntos IGN,4.6,3.96732,-0.633,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,4.5,4.43473,-0.065,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.1,2.37032,-0.73,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.45206,-0.148,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.49236,-0.108,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.53504,-0.065,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.80331,0.203,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.26823,-0.432,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.1,2.36359,-0.736,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.43075,-1.569,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.6,2.46609,-0.134,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.7,2.61591,-0.084,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.41341,-1.587,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.9,2.3004,-0.6,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.26549,-0.335,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.7,2.31109,-1.389,Humedales de Crestas de Playa
+Puntos IGN,3.4,2.35819,-1.042,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.35056,-0.249,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.9,2.3558,-1.544,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.6,2.38586,-1.214,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.6,2.39078,-1.209,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.41308,-0.587,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2.8,2.40143,-0.399,Humedales de Crestas de Playa
+Puntos IGN,3.9,2.50555,-1.394,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.36812,-0.632,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.9,2.36159,-0.538,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.6,2.4347,-0.165,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.3,2.67613,-0.624,Humedales de Crestas de Playa
+Puntos IGN,3,2.40647,-0.594,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.6,2.42759,-1.172,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.4,2.61199,-0.788,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.4,2.93225,-0.468,Humedales de Crestas de Playa
+Puntos IGN,3.5,2.96268,-0.537,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.87663,0.077,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.1,3.33944,0.239,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.8948,-0.005,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.88945,0.189,Humedales de Crestas de Playa
+Puntos IGN,2.9,2.92609,0.026,Humedales de Crestas de Playa
+Puntos IGN,3.9,4.25568,0.356,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3.3,4.31788,1.018,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,3,3.13238,0.132,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.88494,0.285,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.85134,0.251,Humedales de Crestas de Playa
+Puntos IGN,2.1,1.86901,-0.231,Humedales de Crestas de Playa
+Puntos IGN,1.8,1.7437,-0.056,Humedales de Crestas de Playa
+Puntos IGN,4.5,1.9819,-2.518,Humedales de Crestas de Playa
+Puntos IGN,4,2.07796,-1.922,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.21742,-0.383,Humedales de Crestas de Playa
+Puntos IGN,3.1,2.00944,-1.091,Humedales de Crestas de Playa
+Puntos IGN,2,2.13855,0.139,Humedales de Crestas de Playa
+Puntos IGN,2.2,2.01648,-0.184,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.14606,-0.154,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.04957,-0.25,Humedales de Crestas de Playa
+Puntos IGN,2,2.01325,0.013,Humedales de Crestas de Playa
+Puntos IGN,2.6,2.21079,-0.389,Humedales de Crestas de Playa
+Puntos IGN,2.4,2.15947,-0.241,Humedales de Crestas de Playa
+Puntos IGN,2.3,2.28557,-0.014,Humedales de Crestas de Playa
+Puntos IGN,2.1,2.12395,0.024,Humedales de Crestas de Playa
+Puntos IGN,2.1,3.72519,1.625,Humedales de Crestas de Playa
+Puntos IGN,2.3,3.33662,1.037,Humedales de Crestas de Playa
+Puntos IGN,2.8,2.88796,0.088,Humedales de Crestas de Playa
+Puntos IGN,8.1,5.35893,-2.741,Humedales de Crestas de Playa
+Puntos IGN,2.7,2.66716,-0.033,Humedales de Crestas de Playa
+Puntos IGN,5,4.19061,-0.809,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6,5.17102,-0.829,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,6,4.83131,-1.169,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,3.1,2.45025,-0.65,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5,2.65999,-2.34,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.9,3.21418,-0.686,Humedales de Crestas de Playa
+Puntos IGN,4,3.00289,-0.997,Humedales de Crestas de Playa
+Puntos IGN,5.7,2.04752,-3.652,Humedales de Crestas de Playa
+Puntos IGN,5.8,2.8476,-2.952,Humedales de los relieves de Ibicuy
+Puntos IGN,1,2.38502,1.385,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2.3,1.52022,-0.78,Humedales de Crestas de Playa
+Puntos IGN,9.3,3.83444,-5.466,Humedales de los relieves de Ibicuy
+Puntos IGN,1.5,1.98181,0.482,Humedales del Delta frontal
+Puntos IGN,4.7,4.09257,-0.607,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,2.7,3.44125,0.741,Humedales de Crestas de Playa
+Puntos IGN,2.5,2.2493,-0.251,Humedales de la planicie deltaica superior
+Puntos IGN,1.5,1.60436,0.104,Humedales del Delta frontal
+Puntos IGN,7,4.03379,-2.966,Humedales de Crestas de Playa
+Puntos IGN,4,4.2352,0.235,Humedales de antiguos relieves de los rios entrerrianos en su desembocadura
+Puntos IGN,7,4.66515,-2.335,Humedales de relieves de la antigua albusfera
+Puntos IGN,3,2.58574,-0.414,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,6,3.22335,-2.777,Humedales de relieves de la antigua albusfera
+Puntos IGN,5,4.39552,-0.604,Humedales de relieves de la antigua albusfera
+Puntos IGN,4,1.93175,-2.068,Humedales de Crestas de Playa
+Puntos IGN,3,2.16067,-0.839,Humedales de Crestas de Playa
+Puntos IGN,3,1.92696,-1.073,Humedales de Crestas de Playa
+Puntos IGN,4,1.71496,-2.285,Humedales de Crestas de Playa
+Puntos IGN,2,2.24528,0.245,Humedales de Crestas de Playa
+Puntos IGN,3,1.8998,-1.1,Humedales del Delta frontal
+Puntos IGN,5,2.21075,-2.789,Humedales de los relieves de Ibicuy
+Puntos IGN,2,1.19162,-0.808,Humedales de la planicie deltaica superior
+Puntos IGN,3,1.27941,-1.721,Humedales de Crestas de Playa
+Puntos IGN,2,2.18558,0.186,Humedales del Delta frontal
+Puntos IGN,2,2.29327,0.293,Humedales del Delta frontal
+Puntos IGN,2,1.52975,-0.47,Humedales del Delta frontal
+Puntos IGN,4,3.68473,-0.315,Humedales de Crestas de Playa
+Puntos IGN,5,5.45363,0.454,Humedales de Crestas de Playa
+Puntos IGN,4,3.51743,-0.483,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Puntos IGN,4,3.62867,-0.371,Humedales de Crestas de Playa
+Puntos IGN,3,3.41075,0.411,Humedales de Crestas de Playa
+Puntos IGN,3,2.41893,-0.581,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,5,2.61497,-2.385,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.68949,-1.311,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,5,2.66137,-2.339,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.75635,-1.244,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.76316,-1.237,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.79673,-0.203,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.68499,-0.315,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.76795,-0.232,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.88,-0.12,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.60138,-0.399,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.63397,-0.366,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.62641,-0.374,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.47123,-0.529,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.6702,-0.33,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.62412,-1.376,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.5667,-1.433,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.66368,-0.336,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.65788,-1.342,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.62554,-1.374,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.73796,-1.262,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.68475,-1.315,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.7707,-1.229,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.67904,-1.321,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.593,-1.407,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.62438,-0.376,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.68638,-1.314,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.42134,-0.579,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.47472,-0.525,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.45189,-0.548,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.42374,-0.576,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.39651,-0.603,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.42689,-0.573,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.43242,-0.568,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.44985,-0.55,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.5269,-0.473,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.56656,-1.433,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.52789,-0.472,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.59099,-0.409,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.67732,-0.323,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.71002,-0.29,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.71771,-0.282,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.70373,-0.296,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.64914,-0.351,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.78839,-1.212,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.50827,-0.492,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.66484,-0.335,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.75229,-0.248,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.98243,-1.018,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.95615,-0.044,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.90893,-1.091,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.58904,-1.411,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.56836,-0.432,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.77407,-0.226,Humedales de Crestas de Playa
+Puntos IGN,4,2.55622,-1.444,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.50972,-0.49,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.72532,-0.275,Humedales de Crestas de Playa
+Puntos IGN,3,2.60248,-0.398,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.6736,-0.326,Humedales de Crestas de Playa
+Puntos IGN,3,2.55274,-0.447,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5,2.55797,-2.442,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,2,2.58974,0.59,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,5,2.46014,-2.54,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.45464,-1.545,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.44148,-0.559,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.48094,-0.519,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.50332,-0.497,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.46153,-0.538,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.43512,-0.565,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.43572,-0.564,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.44789,-0.552,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.43326,-0.567,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.51924,-0.481,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.44858,-1.551,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.74103,-0.259,Humedales de Crestas de Playa
+Puntos IGN,4,2.58251,-1.417,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3,2.52453,-0.475,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.5536,-0.446,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.59758,-0.402,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.62129,-0.379,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2,2.73463,0.735,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.55855,-0.441,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.51531,-0.485,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.47737,-0.523,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,2,2.52331,0.523,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.63651,-0.363,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.57173,-0.428,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.60742,-0.393,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.59917,-0.401,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.41944,-0.581,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.40474,-0.595,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.40946,-0.591,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.47986,-0.52,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.41716,-0.583,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.44917,-0.551,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.46559,-0.534,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.51246,-0.488,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.79594,-0.204,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.71652,-0.283,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,2.74121,-1.259,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.85323,-0.147,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,2.6662,-1.334,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.66927,-0.331,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.45452,-0.545,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.49276,-0.507,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,4.3238,0.324,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,4.07827,0.078,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,4,3.75686,-0.243,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,3.63982,-0.36,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,4,3.52749,-0.473,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.5,3.45913,-0.041,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.5,3.44795,-0.052,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.5,3.09545,-0.405,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3.5,3.14567,-0.354,Humedales de fajas de espiras del Parana y sus distributarios
+Puntos IGN,3.5,3.19319,-0.307,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,3.09101,0.091,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,3.0267,0.027,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,2.9984,-0.002,Humedales de los lobulos deltaicos del Holoceno Medio_Lechiguanas
+Puntos IGN,3,3.05223,0.052,Humedales de fajas de espiras del Parana y sus distributarios
+Relevamiento Victoria,7.9,5.03505,-2.865,Humedales de Crestas de Playa
+Relevamiento Victoria,4.89,4.90086,0.011,Humedales de Crestas de Playa
+Relevamiento Victoria,7.93,5.03505,-2.895,Humedales de Crestas de Playa
+Relevamiento Victoria,6.295,6.13791,-0.157,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.51,7.43598,-0.074,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.307,5.95471,-1.352,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.006,6.34322,-0.663,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.075,6.26734,0.192,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.245,7.19703,-0.048,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.989,5.66272,-0.326,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.501,5.67384,-0.827,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.518,5.90429,-0.614,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.756,5.6798,-1.076,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.829,5.23946,0.41,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.54,5.17669,0.637,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.887,5.48722,-0.4,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.633,5.37042,-0.263,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.786,5.59351,-1.192,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.816,5.59351,-1.222,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.475,5.60242,-0.873,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.367,5.37716,0.01,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.961,7.1575,0.196,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.616,7.41156,0.796,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.161,6.84554,-0.315,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.59,7.06129,0.471,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.175,5.91006,-0.265,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.094,5.60984,-0.484,Humedales de Crestas de Playa
+Relevamiento Victoria,5.552,4.99806,-0.554,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.312,4.99735,-0.315,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.322,4.99104,0.669,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.515,4.79044,0.275,Humedales de Crestas de Playa
+Relevamiento Victoria,4.692,4.67499,-0.017,Humedales de Crestas de Playa
+Relevamiento Victoria,4.282,4.64104,0.359,Humedales de Crestas de Playa
+Relevamiento Victoria,7.616,5.7157,-1.9,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.162,5.71009,-1.452,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.442,6.05083,-1.391,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.833,6.19427,-0.639,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.784,6.1969,0.413,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.035,6.23466,0.2,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.33,6.19689,-0.133,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.437,5.33782,-1.099,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.473,5.91945,-1.554,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.19,6.27639,-0.914,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.955,6.2985,-0.657,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.537,6.30187,-1.235,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.294,5.73199,-0.562,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.339,5.7851,0.446,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.002,5.81966,0.818,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.155,5.10159,-0.053,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.579,5.13494,1.556,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.875,5.75421,0.879,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.923,5.76602,0.843,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.268,5.89108,1.623,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.401,5.89734,0.496,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.272,6.1329,-0.139,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.053,6.72502,1.672,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,7.374,6.68165,-0.692,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.468,6.25688,0.789,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.536,6.29917,-0.237,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.202,5.98631,0.784,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.313,6.0154,0.702,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.437,5.89982,0.463,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.739,5.55935,-0.18,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.049,5.96326,-0.086,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.804,5.98378,0.18,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.674,6.66531,-0.009,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.153,6.59465,-0.558,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,4.623,6.02521,1.402,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.27,4.87823,0.608,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.86,4.77338,0.913,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.23,4.5841,0.354,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.16,4.58565,0.426,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.5,4.58565,-0.914,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.26,4.65104,0.391,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.26,4.65676,0.397,Humedales de Crestas de Playa
+Relevamiento Victoria,5.46,4.65676,-0.803,Humedales de Crestas de Playa
+Relevamiento Victoria,3.95,4.61062,0.661,Humedales de Crestas de Playa
+Relevamiento Victoria,4.36,4.70998,0.35,Humedales de Crestas de Playa
+Relevamiento Victoria,4.42,4.73273,0.313,Humedales de Crestas de Playa
+Relevamiento Victoria,4.73,4.7605,0.03,Humedales de Crestas de Playa
+Relevamiento Victoria,3.96,4.54023,0.58,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.23,4.5665,0.336,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.98,4.57811,0.598,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.48,4.53168,0.052,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.87,4.61505,0.745,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.75,4.76554,0.016,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.1,4.67873,0.579,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.76,5.73404,-0.026,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.66,5.66615,1.006,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.5,5.56759,0.068,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.07,5.55478,-0.515,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.07,5.48248,1.412,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.01,4.99123,-0.019,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.28,4.99424,-0.286,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.46,4.99258,-0.467,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.74,4.55783,-0.182,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.8,4.56739,0.767,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.52,4.63235,0.112,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,3.82,4.62993,0.81,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.48,5.18932,-1.291,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.47,5.0984,0.628,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.92,5.40602,-0.514,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.32,5.39937,0.079,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.31,5.25325,0.943,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.82,5.18272,-0.637,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.79,4.94339,-0.847,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.89,4.96057,-0.929,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.33,4.78825,0.458,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.43,4.78901,0.359,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.03,4.79664,0.767,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.23,5.72842,-0.502,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.6,6.35061,-0.249,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.22,6.01709,-0.203,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.49,5.95666,0.467,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.14,5.40759,0.268,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.34,5.36692,0.027,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,6.37,5.11744,-1.253,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.69,5.08682,0.397,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,5.15,5.12413,-0.026,Humedales de los lobulos deltaicos del Holoceno Medio_Victoria
+Relevamiento Victoria,4.75,5.14192,0.392,Humedales de Crestas de Playa
+Relevamiento Victoria,8.517,7.25405,-1.263,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,8.542,7.7396,-0.802,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,8.94,7.90615,-1.034,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,8.68,7.16652,-1.513,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,9.549,7.87596,-1.673,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,9.49,8.68126,-0.809,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,10.619,9.15286,-1.466,Humedales de fajas de espiras del Parana y sus distributarios
+Relevamiento Victoria,7.707,7.76167,0.055,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,9.059,7.20181,-1.857,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,9.532,7.36208,-2.17,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,9.578,7.43414,-2.144,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.148,8.21177,1.064,Humedales de fajas de espiras del Parana y sus distributarios
+Relevamiento Victoria,9.135,7.99251,-1.142,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,6.945,7.12885,0.184,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.655,7.05807,0.403,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.552,6.44667,0.895,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,7.192,6.87257,-0.319,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.077,7.08582,1.009,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,10.798,7.53605,-3.262,Humedales de fajas de espiras del Parana y sus distributarios
+Relevamiento Victoria,8.648,7.56179,-1.086,Humedales de fajas de espiras del Parana y sus distributarios
+Relevamiento Victoria,7.972,6.84973,-1.122,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.99,6.51835,-1.472,Humedales de albardones y derrames del Parana
+Relevamiento Victoria,7.133,6.86318,-0.27,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.986,6.42111,-0.565,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.583,5.87812,0.295,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.366,6.66884,0.303,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.534,5.96203,0.428,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,6.123,5.57726,-0.546,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.563,5.61078,0.048,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.05,5.5176,0.468,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.992,5.47475,-0.517,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.432,5.48929,-0.943,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.171,5.46182,-0.709,Humedales de los derrames y espiras de antiguos cauces del Parana hacia Victoria
+Relevamiento Victoria,5.359,5.27059,-0.088,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,5.909,5.20704,-0.702,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,6.079,6.17981,0.101,Humedales de Crestas de Playa
+Relevamiento Victoria,4.96,5.09516,0.135,Humedales de las grandes lagunas de Victoria
+Relevamiento Victoria,4.92,5.03329,0.113,Humedales de las grandes lagunas de Victoria
